@@ -135,6 +135,7 @@ int main(){
 
         cout << "Por favor inserir um valor valido." << endl;
         z = 1;
+        break;
     }
     
     }while(z > 0);
